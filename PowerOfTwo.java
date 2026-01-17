@@ -1,4 +1,4 @@
-Given an integer n, return true if it is a power of two. Otherwise, return false.
+/*Given an integer n, return true if it is a power of two. Otherwise, return false.
 
 An integer n is a power of two, if there exists an integer x such that n == 2x.
 
@@ -17,7 +17,7 @@ Explanation: 24 = 16
 Example 3:
 
 Input: n = 3
-Output: false
+Output: false*/
 
 
 class Solution {
