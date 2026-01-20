@@ -2,7 +2,7 @@
 
  
 
-// Example 1:
+// Example 1:    
 
 // Input: n = 10
 // Output: 4
@@ -25,7 +25,7 @@ public class Solution {
                 count++;
                 for (int j = 2; i*j < n; j++) {
                     notPrime[i*j] = true;
-                }
+                }    
             }
         }
         
