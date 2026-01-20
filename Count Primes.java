@@ -2,7 +2,7 @@
 
  
 
-// Example 1:    
+// Example 1:     
 
 // Input: n = 10
 // Output: 4
