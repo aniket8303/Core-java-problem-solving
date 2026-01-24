@@ -1,3 +1,6 @@
+
+//public boolean equals(java.lang.Object);
+
 class Mobile{
 	String brand ;
 	String model;
@@ -40,3 +43,15 @@ class ObjectClass3{
 
 	}
 }
+
+
+//OUTPUT
+
+
+// D:\java>javac ObjectClass2.java
+
+// D:\java>java ObjectClass2.java
+// SAMSUNG : S23, Price : 60000.0
+// SAMSUNG : S24, Price : 60000.0
+// false
+// false
