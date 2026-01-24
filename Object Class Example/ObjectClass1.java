@@ -1,4 +1,4 @@
-
+//public java.lang.String toString();
 // protected native java.lang.Object clone() throws java.lang.CloneNotSupportedException
 
 class Address
