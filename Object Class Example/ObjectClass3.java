@@ -1,4 +1,4 @@
-
+//	Implement Instagram class with cloning and equality
 // public boolean equals(java.lang.Object);
 
 class Instagram implements Cloneable{
