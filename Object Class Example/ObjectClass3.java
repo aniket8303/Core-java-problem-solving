@@ -1,4 +1,6 @@
 //	Implement Instagram class with cloning and equality
+// public java.lang.String toString();
+//protected native java.lang.Object clone() throws java.lang.CloneNotSupportedException;
 // public boolean equals(java.lang.Object);
 
 class Instagram implements Cloneable{
@@ -23,7 +25,7 @@ class Instagram implements Cloneable{
 	public Object clone() throws CloneNotSupportedException{
 		return super.clone();
 	}
-
+   @Override
 	public boolean equals(Object obj1){
 		Instagram cloneObj = (Instagram)obj1;
 		if(this.username.equals(cloneObj.username) && this.bio.equals(cloneObj.bio) && this.followers==cloneObj.followers && this.following == cloneObj.following){
