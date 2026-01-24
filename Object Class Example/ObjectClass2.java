@@ -1,4 +1,4 @@
-
+//public java.lang.String toString();
 //public boolean equals(java.lang.Object);
 
 class Mobile{
