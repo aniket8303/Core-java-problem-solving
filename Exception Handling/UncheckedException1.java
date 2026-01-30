@@ -12,3 +12,11 @@ class UncheckedException1{
 		System.out.println("Hello i am m1()");
 	}
 }
+
+//OUTPUT
+// D:\java\Exception-Handling>javac UncheckedException1.java
+
+// D:\java\Exception-Handling>java UncheckedException1
+// Hello
+// Hello i am m1()
+// Java
