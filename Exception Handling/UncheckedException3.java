@@ -14,5 +14,8 @@ class UncheckedException3{
 }
 
 //OUTPUT
+// D:\java\Exception-Handling>javac UncheckedException3.java
+
+// D:\java\Exception-Handling>java UncheckedException3
 // false
 // empty string ____
