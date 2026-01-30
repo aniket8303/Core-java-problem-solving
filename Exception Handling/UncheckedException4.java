@@ -16,6 +16,8 @@ class UncheckedException4{
 
 
 // OUTPUT
+// D:\java\Exception-Handling>javac UncheckedException4.java
 
+// D:\java\Exception-Handling>java UncheckedException4
 // Requested array size is invalid
 // null
