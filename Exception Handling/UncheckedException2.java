@@ -16,3 +16,22 @@ class UncheckedException2{
 	}
 	
 }
+
+//OUTPUT
+// D:\java\Exception-Handling>javac UncheckedException2.java
+
+// D:\java\Exception-Handling>java UncheckedException2
+// a
+// b
+// c
+// d
+// e
+// f
+// g
+// h
+// i
+// j
+// k
+// l
+// m
+// n
