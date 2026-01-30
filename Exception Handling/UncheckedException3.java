@@ -12,3 +12,7 @@ class UncheckedException3{
 	   }
 	}
 }
+
+//OUTPUT
+// false
+// empty string ____
