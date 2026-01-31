@@ -3,7 +3,7 @@ class Demo6{
 		System.out.println("Execution Starts");
 		try{
 			System.out.println("try");
-		    thread.sleep(2200);
+		    Thread.sleep(2200);
 		}catch(ArithmeticException e){
 			System.out.println("catch");
 		}
@@ -14,9 +14,8 @@ class Demo6{
 //OUTPUT
 //C.T.E
 // D:\java\Exception-Handling>javac Demo6.java
-// Demo6.java:6: error: cannot find symbol
-//                     thread.sleep(2200);
-//                     ^
-//   symbol:   variable thread
-//   location: class Demo6
+// Demo6.java:6: error: unreported exception InterruptedException; must be caught or declared to be thrown
+//                     Thread.sleep(2200);
+//                                 ^
 // 1 error
+
