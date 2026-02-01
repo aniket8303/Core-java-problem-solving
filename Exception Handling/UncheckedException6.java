@@ -1,6 +1,6 @@
 //Type of RuntimeException
 //UncheckedException
-//InputMismatchException
+//InputMismatchException 
 
 import java.util.Scanner;
 class UncheckedException6{
