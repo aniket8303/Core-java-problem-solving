@@ -1,7 +1,7 @@
 //Types of RuntimeException
 //1. ArithmeticException
 
-class UncheckedException1{
+class ArithmeticException1{
 	public static void main(String[] args) {
 		System.out.println("Hello");
 		m1();
@@ -14,9 +14,9 @@ class UncheckedException1{
 }
 
 //OUTPUT
-// D:\java\Exception-Handling>javac UncheckedException1.java
+// D:\java\Exception-Handling>javac ArithmeticException1.java
 
-// D:\java\Exception-Handling>java UncheckedException1
+// D:\java\Exception-Handling>java ArithmeticException1
 // Hello
 // Hello i am m1()
 // Java
