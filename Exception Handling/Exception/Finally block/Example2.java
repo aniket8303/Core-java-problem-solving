@@ -1,4 +1,4 @@
-class Example1{
+class Example2{
 	public static void main(String[] args) {
 		System.out.println("Starts");
 		try{
@@ -16,9 +16,9 @@ class Example1{
 }
 
 //OUTPUT
-// D:\java\Exception-Handling>javac Example1.java
+// D:\java\Exception-Handling>javac Example2.java
 
-// D:\java\Exception-Handling>java Example1
+// D:\java\Exception-Handling>java Example2
 // Starts
 // try
 // catch
