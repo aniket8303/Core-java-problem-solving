@@ -5,7 +5,7 @@ class InvalidPinException extends Exception {
 	}
 }
 
-class CustomException{
+class CustomException1{
 	static int pin = 1234;
 	static double balance = 20000;
 	public static void main(String[] args) {
@@ -34,16 +34,16 @@ class CustomException{
 
 //OUTPUT
 
-// D:\java\Exception-Handling>javac CustomException.java
+// D:\java\Exception-Handling>javac CustomException1.java
 
-// D:\java\Exception-Handling>java CustomException
+// D:\java\Exception-Handling>java CustomException1
 // execution starts
 // Enter a pin :
 // 1234
 // Your account balance is : 20000.0
 // execution ends
 
-// D:\java\Exception-Handling>java CustomException
+// D:\java\Exception-Handling>java CustomException1
 // execution starts
 // Enter a pin :
 // 1254
