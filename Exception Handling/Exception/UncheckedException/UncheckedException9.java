@@ -21,3 +21,32 @@ class UncheckedException9{
 //         catch(ArrayIndexOutOfBoundsException e){
 //         ^
 // 1 error
+
+class UncheckedException9{
+	public static void main(String[] args) {
+		System.out.println("Execution Starts");
+        try{
+        	System.out.println("try");
+        	System.out.println("hii".charAt(3));
+        }
+        catch(ArrayIndexOutOfBoundsException e){
+        	System.out.println("ArrayIndexOutOfBoundsException");
+        }
+		catch(StringIndexOutOfBoundsException e){
+        	System.out.println("StringIndexOutOfBoundsException");
+        }
+		catch(IndexOutOfBoundsException e){
+        	System.out.println("IndexOutOfBoundsException");
+        }
+        System.out.println("Execution Ends");
+	}
+}
+
+//OUTPUT
+// D:\java\Exception-Handling>javac UncheckedException9.java
+
+// D:\java\Exception-Handling>java UncheckedException9
+// Execution Starts
+// try
+// StringIndexOutOfBoundsException
+// Execution Ends
