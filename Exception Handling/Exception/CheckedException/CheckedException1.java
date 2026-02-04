@@ -1,4 +1,4 @@
-//CheckedException
+//CheckedException  
 //1.Throwable
 
 //first way of handling exception  i.e try-catch
