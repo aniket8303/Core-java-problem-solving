@@ -1,3 +1,5 @@
+//2.public java.lang.String toString();
+
 class ExceptionExample3{
 	public static void main(String[] args) {
 		try{
