@@ -1,3 +1,5 @@
+//1. public java.lang.String getMessage();
+
 import java.util.*;
 class ExceptionExample2{
 	public static void main(String[] args) {
