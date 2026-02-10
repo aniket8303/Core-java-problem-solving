@@ -3,7 +3,7 @@
 
 class Mobile{
 	String brand ;
-	String model;
+	String model; 
 	double price;
 
 	Mobile(String brand , String model , double price){
