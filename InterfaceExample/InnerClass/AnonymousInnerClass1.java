@@ -1,4 +1,4 @@
-@FunctionalInterface
+ @FunctionalInterface
 interface Demo{
 	void m1();
 }
