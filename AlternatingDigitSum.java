@@ -2,7 +2,7 @@
 
 The most significant digit is assigned a positive sign.
 Each other digit has an opposite sign to its adjacent digits.
-Return the sum of all digits with their corresponding sign.
+Return the sum of all digits with their corresponding sign. 
 
  
 
