@@ -14,7 +14,7 @@
 // Example 2:
 
 // Input: a = 2, b = 3
-// Output: 5
+// Output: 5 
 
 class Solution{
   public int getSum(int a, int b){
