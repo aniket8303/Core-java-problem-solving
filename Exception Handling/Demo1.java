@@ -6,7 +6,7 @@ class Demo1{
 			System.out.println("Hello2");
 			System.out.println("Hello3");
 			System.out.println(10/0);
-		}catch(ArithmeticException e){
+		}catch(ArithmeticException e){ 
 			System.out.println("catch");
 		}
 		System.out.println("Execution Ends");
