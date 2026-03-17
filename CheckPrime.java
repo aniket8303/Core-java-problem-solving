@@ -1,5 +1,5 @@
 // Given an integer n check if n is prime or not.
-// A prime number is a number that is divisible by 1 and itself only.
+// A prime number is a number that is divisible by 1 and itself only. 
 
 // Note: Print "True" if n is prime, otherwise print "False".
 
